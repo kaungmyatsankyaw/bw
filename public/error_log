@@ -1,0 +1,1 @@
+[25-Jun-2018 09:50:28 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 135168 bytes) in /home/kspmyanm/public_html/bw/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 68
